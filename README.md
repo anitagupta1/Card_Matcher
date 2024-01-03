@@ -1,2 +1,2 @@
 # Card_Matcher
-card matching game by using python  tkinter
+card matching game using python tkinter
